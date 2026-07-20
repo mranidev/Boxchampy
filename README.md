@@ -7,7 +7,7 @@ Figma to Wordpress Elementor https://www.youtube.com/watch?v=rrd91OK9YYI&amp;t=1
 # Prompt Example
 I will provide a Figma design link
 
-<LINK> (Copy as link selection?)
+[<LINK>](https://www.figma.com/design/qByCU9nBfcnZc7Dq7bM3vz/Boxchampy-tut?node-id=2-2&t=GktwCo8NkJkYck4P-4) (Copy as link selection?)
 
 Your task is to generate a complete, production-ready HTML file with embedded CSS (inside one <style> tag) and minimal JavaScript (inside one <script> tag) — all in the same file. Requirements:
 1. The implementation must be pixel-perfect (1:1) compared to the Figma design.
